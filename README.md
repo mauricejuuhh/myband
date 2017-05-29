@@ -1,10 +1,10 @@
-## Titel van jouw website
-www.mijnliveomgeving.com is een website van (..jouw naam..) waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
-De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
+## The chainsmokers
+www.21960.hosts.ma-cloud.nl/chainsmokers is een website van Maurice waar gebruikers zich op de hoogte kunnen houden over The chainsmokers. bedoeld voor fans van de Chainsmokers
+De website is enigszins te vergelijken met https://www.chrisbrownworld.com/ of https://www.thechainsmokers.com/ maar toch anders omdat dit gemaakt is door maurice de jong (daar is er maar 1 van).
 
 ### Uniek aan dit concept is: 
- * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
- * tweede u.s.p. (vul hier in, waar jouw site door gaat opvallen, wat zal iedereen onthouden van jouw site?)
+ * eerste u.s.p. omdat deze site voor the chainsmokers is en hij is gemaakt door maurice de jong en hij is een hele proffecionele jongen. hahaha
+ * tweede u.s.p. omdat iedereen mijn site geweldig zou vinden
 
 ---
 #### Milestones Fase 1
@@ -21,7 +21,7 @@ De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrenti
 | b1-k1-w2 FLowChart             | TODO | [Flow]                  | SVG exported by Draw.io |
 | b1-k1-w2 prototype             | TODO | [axShare]               | Axshare link |
 
-   [readme.md]: <https://github.com/JouwGithubNaam/myband/blob/master/readme.md>
+   [readme.md]: <https://github.com/mauricejuuhh/myband/readme.md>
    [Leidraad_uitgangspunt.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
    [Debriefing]: <https://docs.google.com/document/u/0/>
    [doc/1/PvA.rtf]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/PvA.rtf>
